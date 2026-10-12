@@ -22,6 +22,13 @@
             "playstore": "https://play.google.com/store/apps/details?id=com.irccloud.android"
         },
         {
+            "source": "https://github.com/jev-chat/jev-chat-jarvis",
+            "added": "2026-10-12",
+            "name": "Jev for WhatsApp",
+            "description": "Android reply copilot for WhatsApp. It reads the chat on screen through the accessibility service, uses your own OpenRouter key to judge intent and risk, drafts two replies, and fills the one you pick into the message box. You press send. Not affiliated with WhatsApp.",
+            "website": "https://chatjevs.com"
+        },
+        {
             "name": "K-9 Mail",
             "description": "An advanced, open-source email client for Android.",
             "source": "https://github.com/thunderbird/thunderbird-android",

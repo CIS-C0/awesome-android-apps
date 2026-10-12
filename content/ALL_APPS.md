@@ -43,6 +43,7 @@
 ## Recently Added
 | App | Category | Added | Store |
 |-----|----------|-------|-------|
+| **[`Jev for WhatsApp`](https://github.com/jev-chat/jev-chat-jarvis "link")** | [📨 Messaging](#messaging) | 2026-10-12 | [`[website]`](https://chatjevs.com "website") |
 | **[`Domiday`](https://github.com/zapal69/domiday "link")** | [🗺️ Travel & Local](#travel-and-local) | 2026-10-11 | [`[website]`](https://domiday.com "website") |
 | **[`Airvia`](https://github.com/jazzy1133/airvia "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-04 |  |
 | **[`Outro`](https://github.com/jazzy1133/outro "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-10-04 |  |
@@ -57,7 +58,6 @@
 | **[`1List`](https://github.com/lolo-io/OneList "link")** | [👩‍🔧 Productivity](#productivity) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.lolo.io.onelist "playstore") |
 | **[`2FAS Authenticator`](https://github.com/twofas/2fas-android "link")** | [🧰 Tools](#tools) | 2026-09-16 | [`[playstore]`](https://play.google.com/store/apps/details?id=com.twofasapp "playstore") |
 | **[`36krReader`](https://github.com/kinneyyan/36krReader "link")** | [📰 News & Magazines](#news-and-magazines) | 2026-09-16 |  |
-| **[`A Photo Manager`](https://github.com/k3b/APhotoManager "link")** | [⏯ Media Viewers and Players](#media-viewers-and-players) | 2026-09-16 |  |
 
 ## App Status
 | Status | Meaning |
@@ -505,6 +505,7 @@
 | **[`Crisis Connect`](https://github.com/emirhan-duman/Crisis-Connect "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An open-source, offline-first mesh messaging app over Bluetooth built with Kotlin and Jetpack Compose. | 10 | ![last commit](https://img.shields.io/github/last-commit/emirhan-duman/Crisis-Connect) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.auralis.crisisconnect "playstore") |
 | **[`httpSMS`](https://github.com/NdoleStudio/httpsms "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | Converts your phone into an SMS gateway with a simple, programmable API. | 5,136 | ![last commit](https://img.shields.io/github/last-commit/NdoleStudio/httpsms) |  |
 | **[`IRCCloud`](https://github.com/irccloud/android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | The official open-source Android application for IRCCloud.com. | 312 | ![last commit](https://img.shields.io/github/last-commit/irccloud/android) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.irccloud.android "playstore") |
+| **[`Jev for WhatsApp`](https://github.com/jev-chat/jev-chat-jarvis "link")** |  | Android reply copilot for WhatsApp. It reads the chat on screen through the accessibility service, uses your own OpenRouter key to judge intent and risk, drafts two replies, and fills the one you pick into the message box. You press send. Not affiliated with WhatsApp. | ![Stars](https://badgen.net/github/stars/jev-chat/jev-chat-jarvis) | ![last commit](https://img.shields.io/github/last-commit/jev-chat/jev-chat-jarvis) | [`[website]`](https://chatjevs.com "website") |
 | **[`K-9 Mail`](https://github.com/thunderbird/thunderbird-android "link")** | ![healthy](https://img.shields.io/badge/status-healthy-success) | An advanced, open-source email client for Android. | 14,009 | ![last commit](https://img.shields.io/github/last-commit/thunderbird/thunderbird-android) | [`[playstore]`](https://play.google.com/store/apps/details?id=com.fsck.k9 "playstore") |
 | **[`KissProxy`](https://github.com/dawsonice/KissProxy "link")** | ![license_not_detected](https://img.shields.io/badge/status-license_not_detected-lightgrey) | An NIO-based local HTTP/HTTPS proxy for Android. (Archived) | 121 | ![last commit](https://img.shields.io/github/last-commit/dawsonice/KissProxy) |  |
 | **[`Kontalk Messenger`](https://github.com/kontalk/androidclient "link")** | ![inactive](https://img.shields.io/badge/status-inactive-yellow) | The official Android client for the Kontalk instant messaging network. | 575 | ![last commit](https://img.shields.io/github/last-commit/kontalk/androidclient) |  |
